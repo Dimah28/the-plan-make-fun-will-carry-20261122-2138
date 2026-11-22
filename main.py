@@ -3,7 +3,7 @@ import os
 PLAN = (
     "Day 1: spend $20 on Apollo, find 50 Shopify stores via BuiltWith, email each a $49 "
     "AI-automation audit from their public store data. Deliver in 24h with free AI tools. Close 2 "
-    "in week 1 ($98), reinvest in outreach, upsell a $199 setup, repeat daily, bank profit, never trade."
+    "in week 1 ($98), reinvest in outreach, upsell a $199 setup, repeat daily, bank $500+ by day 30."
 )
 
 out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
